@@ -190,13 +190,19 @@ export default function TimelineSection({ timeline }) {
                         <div style={{
                           borderRadius: '12px',
                           overflow: 'hidden',
-                          maxHeight: '260px',
-                          position: 'relative'
+                          position: 'relative',
+                          width: '100%'
                         }}>
                           <img 
                             src={item.image} 
                             alt={item.title}
-                            style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                            style={{
+                              display: 'block',
+                              width: '100%',
+                              height: 'auto',
+                              objectFit: 'contain',
+                              borderRadius: '12px'
+                            }}
                             onError={(e) => {
                               e.target.style.display = 'none';
                             }}
