@@ -397,25 +397,25 @@ export const configData = {
   videos: [
     {
       id: "v1",
-      title: "The Laughs & Fun Antics with Buggi 😂",
-      tag: "The Laughs",
+      title: "Those Eyes That Make Me Smile 👀❤️",
+      tag: "Those Eyes 👀",
       badgeColor: "#ec4899",
       duration: "0:30",
-      description: "Unfiltered laughter, giggles, and crazy moments with Ritika.",
+      description: "Somehow, one look at those eyes is enough to make me smile.",
       poster: "/images/04.jpeg",
       videoUrl: "/videos/04.mp4",
-      memoryNote: "Ritika ka wo candid video jisme full on masti aur hasi hai! Truly one of the best clips."
+      memoryNote: "Pata nahi tumhari aankhon mein aisa kya magic hai… bas dekhta hoon aur automatically smile aa jaati hai. Kuch aankhein bas dekhi nahi jaati, yaad reh jaati hain. 👀❤️"
     },
     {
       id: "v2",
-      title: "The Unmatched Chaos & Joy 🎥",
-      tag: "The Chaos",
+      title: "Cuteness Overload: That's So Buggi 🥹💗",
+      tag: "Cuteness Overload 🥹",
       badgeColor: "#f59e0b",
       duration: "0:45",
-      description: "Memorable moments in motion that make life so much more colorful.",
+      description: "Some moments are cute for no reason… and somehow you make every one of them special.",
       poster: "/images/15.jpeg",
       videoUrl: "/videos/20.mp4",
-      memoryNote: "Ye video dekhte hi wo din aur us waqt ka poora fun samne aa jaata hai!"
+      memoryNote: "Is video mein tumhari cuteness ka koi competition hi nahi… bas dekho aur smile automatically aa jaaye. 🥹💗"
     }
   ],
 
