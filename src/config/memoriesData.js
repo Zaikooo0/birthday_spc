@@ -13,7 +13,7 @@ export const configData = {
     name: "Ritika",
     nickname: "Buggi ❤️",
     birthDate: "2026-10-01",
-    friendshipStartDate: "2023-04-15",
+    friendshipStartDate: "2026-09-13",
     passcode: "0110", // 1st October (01/10)
     passcodeHint: "Hint: Your birthday in DDMM (0110) or click 'Direct Unlock'",
   },
