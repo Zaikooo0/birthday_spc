@@ -15,6 +15,17 @@ export default function AudioPlayer({ musicConfig }) {
     }
   }, [volume]);
 
+  useEffect(() => {
+    if (!audioRef.current || !musicConfig?.autoPlayPrompt) return;
+
+    audioRef.current.play()
+      .then(() => setIsPlaying(true))
+      .catch(() => {
+        // Browser autoplay policy may block automatic playback.
+        // The Play button remains available.
+      });
+  }, [musicConfig?.autoPlayPrompt]);
+
   const togglePlay = () => {
     sfx.playChime();
     if (!audioRef.current) return;
@@ -55,6 +66,7 @@ export default function AudioPlayer({ musicConfig }) {
         src={musicConfig?.audioUrl}
         loop
         preload="auto"
+        autoPlay
       />
 
       {/* Floating Music Widget */}
