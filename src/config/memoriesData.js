@@ -22,7 +22,7 @@ export const configData = {
   music: {
     title: "BUGGI FAV SONG ❤️",
     artist: "BUGGI & BUGGU❤️",
-    audioUrl: "/music/buggi-fav-song.mp3",
+    audioUrl: "/music/fav_song_for_buggii.mp3",
     autoPlayPrompt: true,
   },
   // 🌟 Opening / Hero Section
