@@ -20,12 +20,11 @@ export const configData = {
 
   // 🎵 Background Music (Ambient Acoustic Piano / Lofi)
   music: {
-    title: "Special Melody for Ritika (Buggi)",
-    artist: "From Your Best Friend",
-    audioUrl: "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3?filename=romantic-piano-112199.mp3",
+    title: "BUGGI FAV SONG ❤️",
+    artist: "BUGGI & BUGGU❤️",
+    audioUrl: "/music/buggi-fav-song.mp3",
     autoPlayPrompt: true,
   },
-
   // 🌟 Opening / Hero Section
   hero: {
     badge: "1st October • A Very Special Day for Ritika ✨",

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { 
-  MessageCircle, Moon, Smile, HeartHandshake, 
+import {
+  MessageCircle, Moon, Smile, HeartHandshake,
   Camera, Gamepad2, Sparkles, ChevronDown, ChevronUp, Quote
 } from 'lucide-react';
 import { sfx } from '../utils/audioUtils';
@@ -61,7 +61,7 @@ export default function TimelineSection({ timeline }) {
             const isExpanded = expandedId === item.id;
 
             return (
-              <div 
+              <div
                 key={item.id}
                 style={{
                   position: 'relative',
@@ -70,7 +70,7 @@ export default function TimelineSection({ timeline }) {
                 }}
               >
                 {/* Milestone Node Icon */}
-                <div 
+                <div
                   onClick={() => toggleExpand(item.id)}
                   style={{
                     position: 'absolute',
@@ -97,7 +97,7 @@ export default function TimelineSection({ timeline }) {
                 </div>
 
                 {/* Timeline Card */}
-                <div 
+                <div
                   className="glass-panel"
                   style={{
                     padding: '24px',
@@ -193,8 +193,8 @@ export default function TimelineSection({ timeline }) {
                           position: 'relative',
                           width: '100%'
                         }}>
-                          <img 
-                            src={item.image} 
+                          <img
+                            src={item.image}
                             alt={item.title}
                             style={{
                               display: 'block',
