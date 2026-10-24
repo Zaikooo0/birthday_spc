@@ -8,6 +8,7 @@ export default function AudioPlayer({ musicConfig }) {
   const [isMuted, setIsMuted] = useState(false);
   const [showVolume, setShowVolume] = useState(false);
   const audioRef = useRef(null);
+  const videoWasPlayingMusic = useRef(false);
 
   useEffect(() => {
     if (audioRef.current) {
@@ -25,6 +26,35 @@ export default function AudioPlayer({ musicConfig }) {
         // The Play button remains available.
       });
   }, [musicConfig?.autoPlayPrompt]);
+
+  useEffect(() => {
+    const handleVideoPlay = () => {
+      if (!audioRef.current) return;
+
+      videoWasPlayingMusic.current = !audioRef.current.paused;
+      if (videoWasPlayingMusic.current) {
+        audioRef.current.pause();
+        setIsPlaying(false);
+      }
+    };
+
+    const handleVideoStop = () => {
+      if (!audioRef.current || !videoWasPlayingMusic.current) return;
+
+      audioRef.current.play()
+        .then(() => setIsPlaying(true))
+        .catch(() => {});
+      videoWasPlayingMusic.current = false;
+    };
+
+    window.addEventListener('birthday-video-play', handleVideoPlay);
+    window.addEventListener('birthday-video-stop', handleVideoStop);
+
+    return () => {
+      window.removeEventListener('birthday-video-play', handleVideoPlay);
+      window.removeEventListener('birthday-video-stop', handleVideoStop);
+    };
+  }, []);
 
   const togglePlay = () => {
     sfx.playChime();

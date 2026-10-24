@@ -12,6 +12,7 @@ export default function VideoMomentsSection({ videos }) {
 
   const closeVideo = () => {
     sfx.playPop();
+    window.dispatchEvent(new Event('birthday-video-stop'));
     setActiveVideo(null);
   };
 
@@ -235,6 +236,8 @@ export default function VideoMomentsSection({ videos }) {
                 controls
                 autoPlay
                 poster={activeVideo.poster}
+                onPlay={() => window.dispatchEvent(new Event('birthday-video-play'))}
+                onEnded={() => window.dispatchEvent(new Event('birthday-video-stop'))}
                 style={{ width: '100%', maxHeight: '420px', display: 'block' }}
               >
                 Your browser does not support the video tag.
