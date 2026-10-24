@@ -10,30 +10,30 @@
 export const configData = {
   // 🌸 Personal Details
   recipient: {
-    name: "Ritika",
-    nickname: "Buggi ❤️",
-    birthDate: "2008-10-01",
-    friendshipStartDate: "2026-09-13",
-    passcode: "0110", // 1st October (01/10)
-    passcodeHint: "Hint: Your birthday in DDMM (0110) or click 'Direct Unlock'",
+    name: "Aarna",
+    nickname: "pagal bauni ❤️",
+    birthDate: "2009-10-29",
+    UStogether: "2023-07-06",
+    passcode: "2910",
+    passcodeHint: "Hint: Your birthday in DDMM (2910) or click 'Direct Unlock'",
   },
 
   // 🎵 Background Music (Ambient Acoustic Piano / Lofi)
   music: {
-    title: "BUGGI FAV SONG ❤️",
-    artist: "BUGGI & BUGGU❤️",
+    title: "KUCCHU FAV SONG ❤️",
+    artist: "BAUNI & BAUNA❤️",
     audioUrl: "/music/fav_song_for_buggii.mp3",
     autoPlayPrompt: true,
   },
   // 🌟 Opening / Hero Section
   hero: {
-    badge: "1st October • A Very Special Day for Ritika ✨",
-    tagline: "To my favorite Buggi, who makes every ordinary day feel like pure happiness...",
+    badge: "29tH October • A Very Special Day for Aarna ✨",
+    tagline: "To my favorite Princess, who makes every ordinary day feel like pure happiness...",
     typewriterSentences: [
       "Some people become a memory…",
       "Some people become a part of your story.",
-      "And you, Ritika, made my life a whole lot brighter and funnier!",
-      "Happy Birthday to my favorite human & bestest Buggi in the whole world! 🎂✨"
+      "And you, Aarna, made my life a whole lot brighter and funnier!",
+      "Happy Birthday to my favorite human & bestest in the whole world! 🎂✨"
     ],
     buttonText: "Enter Our Story →",
   },
@@ -48,7 +48,7 @@ export const configData = {
       tag: "The Beginning",
       tagColor: "#f43f5e",
       summary: "Ek choti si random baat se shuru hua safar jo aaj meri zindagi ka sabse special hissa ban gaya.",
-      detail: "Mujhe aaj bhi yaad hai jab pehli baar baat hui thi Ritika. Tab bilkul nahi pata tha ki ye ladki ek din meri har baat ki sabse badi raazdaar aur best friend ban jayegi. That first moment was truly the start of something unforgettable.",
+      detail: "Mujhe aaj bhi yaad hai jab pehli baar baat hui thi Aarna. Tab bilkul nahi pata tha ki ye ladki ek din meri har baat ki sabse badi raazdaar aur best friend ban jayegi. That first moment was truly the start of something unforgettable.",
       icon: "MessageCircle",
       image: "/images/01.jpeg",
       memoryQuote: "“Pehle laga tha thodi quiet hai, par baad me pata chala full nautanki aur dramebaaz hai!” 😂❤️"
@@ -74,7 +74,7 @@ export const configData = {
       tag: "Laugh Riot",
       tagColor: "#f59e0b",
       summary: "Wo moments jab bina kisi reason ke itna hase ki pet dard karne laga aur aankhon se aansu nikal aaye.",
-      detail: "Ritika jab hasna start karti hai na, toh poora room cheerful ho jata hai. Tumhara wo bina aawaz wala hasna aur cute expressions are the best thing ever.",
+      detail: "Aarna jab hasna start karti hai na, toh poora room cheerful ho jata hai. Tumhara wo bina aawaz wala hasna aur cute expressions are the best thing ever.",
       icon: "Smile",
       image: "/images/03.jpeg",
       memoryQuote: "“Hasso mat yaar, koi dekh lega toh pagal samjhega!” 💀"
@@ -87,7 +87,7 @@ export const configData = {
       tag: "Pure Bond",
       tagColor: "#ec4899",
       summary: "Jab sab kuch mushkil lag raha tha, tab tumhara ek message hi kaafi tha hosla dene ke liye.",
-      detail: "True friendship wahi hoti hai jo bure waqt me chup-chap sath khadi rahe. Thank you Ritika for always understanding me and being my pillar of strength.",
+      detail: "True friendship wahi hoti hai jo bure waqt me chup-chap sath khadi rahe. Thank you Aarna for always understanding me and being my pillar of strength.",
       icon: "HeartHandshake",
       image: "/images/05.jpeg",
       memoryQuote: "“Tension mat le, sab theek ho jayega. Main hoon na tere sath.” ❤️"
@@ -113,7 +113,7 @@ export const configData = {
       tag: "Partner In Crime",
       tagColor: "#06b6d4",
       summary: "Ek dusre ko pareshan karna, leg-pulling karna, aur non-stop masti.",
-      detail: "Kitni bhi ladayi ho ya kitni bhi baatein, Ritika ke sath kabhi bore hona impossible hai. You are the best companion anyone could ever ask for.",
+      detail: "Kitni bhi ladayi ho ya kitni bhi baatein, Aarna ke sath kabhi bore hona impossible hai. You are the best companion anyone could ever ask for.",
       icon: "Gamepad2",
       image: "/images/09.jpeg",
       memoryQuote: "“Tu kitna irritate karta hai mujhe, par phir bhi main hi jhelungi tujhe!” 😂"
@@ -122,14 +122,14 @@ export const configData = {
       id: "ch-7",
       chapter: "Chapter 07",
       title: "Today & Every Tomorrow ❤️",
-      date: "1st October — Happy Birthday Ritika!",
+      date: "1st October — Happy Birthday Aarna!",
       tag: "Grand Celebration",
       tagColor: "#fbbf24",
       summary: "Ye celebration hai us pyari si ladki ka jo sabki life me brightness bharti hai.",
-      detail: "Happy Birthday my dearest Buggi! May this year give you immense happiness, career success, peace of mind, great food, and lifelong laughter. I promise to always be by your side.",
+      detail: "Happy Birthday my dearest Aarna! May this year give you immense happiness, career success, peace of mind, great food, and lifelong laughter. I promise to always be by your side.",
       icon: "Sparkles",
       image: "/images/11.jpeg",
-      memoryQuote: "“Happy Birthday Buggi! Always shine bright like the star you are!” 🥂👑"
+      memoryQuote: "“Happy Birthday Aarna! Always shine bright like the star you are!” 🥂👑"
     }
   ],
 
@@ -142,7 +142,7 @@ export const configData = {
       date: "Midnight Vibe",
       reaction: "😭❤️",
       category: "Mood Lifter",
-      sender: "Ritika"
+      sender: "Aarna"
     },
     {
       id: 2,
@@ -151,7 +151,7 @@ export const configData = {
       date: "Terrace Talk",
       reaction: "🥺✨",
       category: "Heartfelt",
-      sender: "Ritika"
+      sender: "Aarna"
     },
     {
       id: 3,
@@ -160,7 +160,7 @@ export const configData = {
       date: "Everyday Talk",
       reaction: "💀😂",
       category: "Banter",
-      sender: "Ritika"
+      sender: "Aarna"
     },
     {
       id: 4,
@@ -169,7 +169,7 @@ export const configData = {
       date: "Special Moment",
       reaction: "🫂🤍",
       category: "Emotional",
-      sender: "Ritika"
+      sender: "Aarna"
     },
     {
       id: 5,
@@ -178,7 +178,7 @@ export const configData = {
       date: "Random Evening",
       reaction: "🌸✨",
       category: "Honest Truth",
-      sender: "Ritika"
+      sender: "Aarna"
     },
     {
       id: 6,
@@ -187,7 +187,7 @@ export const configData = {
       date: "1st October Special",
       reaction: "👑🎂",
       category: "Sweetest",
-      sender: "Ritika"
+      sender: "Aarna"
     }
   ],
 
@@ -202,7 +202,7 @@ export const configData = {
       category: "Aesthetic",
       rotation: -3,
       image: "/images/01.jpeg",
-      fullStory: "Ritika ki sabse natural aur pyaari smile. Har baar jab ye photo dekho, ek positive energy feel hoti hai."
+      fullStory: "Aarna ki sabse natural aur pyaari smile. Har baar jab ye photo dekho, ek positive energy feel hoti hai."
     },
     {
       id: "p2",
@@ -213,7 +213,7 @@ export const configData = {
       category: "Aesthetic",
       rotation: 3,
       image: "/images/02.jpeg",
-      fullStory: "A picture that defines grace and simplicity. Ritika in her most peaceful and happy mood."
+      fullStory: "A picture that defines grace and simplicity. Aarna in her most peaceful and happy mood."
     },
     {
       id: "p3",
@@ -224,7 +224,7 @@ export const configData = {
       category: "Silly & Candid",
       rotation: -4,
       image: "/images/03.jpeg",
-      fullStory: "The unmatched dramebaazi and fun that makes spending time with Buggi so unforgettable."
+      fullStory: "The unmatched dramebaazi and fun that makes spending time with Aarna so unforgettable."
     },
     {
       id: "p4",
@@ -235,11 +235,11 @@ export const configData = {
       category: "Aesthetic",
       rotation: 2,
       image: "/images/05.jpeg",
-      fullStory: "Shanti, sundar hawa, aur Ritika ke sath kabhi na khatam hone wali baatein."
+      fullStory: "Shanti, sundar hawa, aur Aarna ke sath kabhi na khatam hone wali baatein."
     },
     {
       id: "p5",
-      title: "The Candid Buggi 🌸",
+      title: "The Candid Butki 🌸",
       date: "Random Click",
       caption: "Unfiltered, real, and always full of charm.",
       location: "Everyday Life",
@@ -257,7 +257,7 @@ export const configData = {
       category: "Unforgettable",
       rotation: 4,
       image: "/images/07.jpeg",
-      fullStory: "Ritika ki innocence aur kindness is photo me saaf jhalakti hai. A truly wonderful soul."
+      fullStory: "Aarna ki innocence aur kindness is photo me saaf jhalakti hai. A truly wonderful soul."
     },
     {
       id: "p7",
@@ -279,7 +279,7 @@ export const configData = {
       category: "Silly & Candid",
       rotation: 2,
       image: "/images/09.jpeg",
-      fullStory: "Ritika jab full energy me hoti hai, tab sab log bas uski baatein sunkar haste rehte hain."
+      fullStory: "Aarna jab full energy me hoti hai, tab sab log bas uski baatein sunkar haste rehte hain."
     },
     {
       id: "p9",
@@ -312,7 +312,7 @@ export const configData = {
       category: "Aesthetic",
       rotation: -4,
       image: "/images/12.jpeg",
-      fullStory: "Time will fly and years will pass, but these captured memories of Ritika will stay forever."
+      fullStory: "Time will fly and years will pass, but these captured memories of Aarna will stay forever."
     },
     {
       id: "p12",
@@ -334,7 +334,7 @@ export const configData = {
       category: "Aesthetic",
       rotation: -2,
       image: "/images/14.jpeg",
-      fullStory: "Ritika's presence is truly a blessing to everyone around her."
+      fullStory: "Aarna's presence is truly a blessing to everyone around her."
     },
     {
       id: "p14",
@@ -389,11 +389,11 @@ export const configData = {
       category: "Unforgettable",
       rotation: 3,
       image: "/images/26.jpeg",
-      fullStory: "Thank you for being Ritika, thank you for being my Buggi. Happy Birthday!"
+      fullStory: "Thank you for being Aarna, thank you for being my Buggi. Happy Birthday!"
     }
   ],
 
-  // 🎥 4. Moments in Motion (Cinematic Video Memories of Ritika)
+  // 🎥 4. Moments in Motion (Cinematic Video Memories of Aarna)
   videos: [
     {
       id: "v1",
@@ -419,22 +419,22 @@ export const configData = {
     }
   ],
 
-  // 💌 5. Things I Never Said (Interactive Handwritten Sealed Letter for Ritika)
+  // 💌 5. Things I Never Said (Interactive Handwritten Sealed Letter for Aarna)
   secretLetter: {
-    envelopeTitle: "Open this when you're ready, Ritika…",
-    sealText: "FOR BUGGI",
+    envelopeTitle: "Open this when you're ready, Aarna…",
+    sealText: "FOR BUTKI",
     date: "1st October, Midnight",
-    salutation: "Dearest Ritika (My Buggi ❤️),",
+    salutation: "Dearest Aarna (My Buggi ❤️),",
     paragraphs: [
       "I know main aksar tumhe irritate karta hoon aur pretend karta hoon ki mujhe farak nahi padta, but the truth is—having you as my best friend is one of the biggest blessings of my life.",
-      "Tumhare andar ek bohot rare aur beautiful quality hai, Ritika: tum bina kisi show-off ke sabke dil me apni jagah bana leti ho. In a world full of fake vibes, your genuineness and warmth are like a breath of fresh air.",
+      "Tumhare andar ek bohot rare aur beautiful quality hai, Aarna: tum bina kisi show-off ke sabke dil me apni jagah bana leti ho. In a world full of fake vibes, your genuineness and warmth are like a breath of fresh air.",
       "Thank you for being my go-to person for everything—for the late night conversations, the silly arguments, for listening to my random thoughts, and for believing in me even when I doubt myself.",
       "On your birthday, I wish you infinite happiness, peace of mind, unshakeable confidence, and success in everything you pursue. May you always keep that cute laugh and positive spark alive, no matter where life takes you.",
-      "Chahe hum kitne bhi busy ho jayein ya kitne bhi saal beet jayein, ye dosti hamesha meri sabse safe space rahegi. You will always have a friend who stands by you through everything."
+      "Chahe hum kitne bhi busy ho jayein ya kitne bhi saal beet jayein, ye RelationShip hamesha meri sabse safe space rahegi. You will always have a friend who stands by you through everything."
     ],
     closing: "Always in your corner,",
-    signature: "Your Best Friend Forever ❤️",
-    postScript: "P.S. Yes Buggi, you still owe me a grand birthday treat for this website! 🍰✨"
+    signature: "Your life Forever ❤️",
+    postScript: "P.S. Yes Butki, you still owe me a grand birthday treat for this website! 🍰✨"
   },
 
   // ✍️ 6. Her Shayari & Poetic Verses
@@ -444,12 +444,12 @@ export const configData = {
       lines: [
         "kuch rishte lafzon ke mohtaaj nahi hote,",
         "wo ehsaas hain jo khamoshi me bhi muskurate hain.",
-        "teri dosti meri zindagi ka wo hissa hai Ritika,",
+        "teri dosti meri zindagi ka wo hissa hai Aarna,",
         "jise hum har dua me shamil paate hain."
       ],
-      author: "Dedicated to Ritika",
+      author: "Dedicated to Aarna",
       theme: "Dosti & Rooh",
-      tags: ["#BuggiForever", "#TrueBond"]
+      tags: ["#ButkiForever", "#TrueBond"]
     },
     {
       id: 2,
@@ -479,12 +479,12 @@ export const configData = {
 
   // 🎁 7. Birthday Surprise & Cake Celebration
   surprise: {
-    giftBoxTitle: "One Last Special Surprise For Ritika...",
+    giftBoxTitle: "One Last Special Surprise For Aarna...",
     unlockButtonText: "Open Your Birthday Surprise 🎁",
-    cakeTitle: "Make a Wish & Blow The Candles, Buggi! 🕯️🎂",
+    cakeTitle: "Make a Wish & Blow The Candles, Butki! 🕯️🎂",
     candlesCount: 3,
-    confettiMessage: "🎉 HAPPY BIRTHDAY, RITIKA! 👑✨",
+    confettiMessage: "🎉 HAPPY BIRTHDAY, AARNA! 👑✨",
     wishesPrompt: "Write a wish for this new year and release it into the starlit sky:",
-    finalBlessing: "May all your secret wishes, prayers, and biggest dreams come true this year, Ritika! ❤️"
+    finalBlessing: "May all your secret wishes, prayers, and biggest dreams come true this year, Aarna! ❤️"
   }
 };

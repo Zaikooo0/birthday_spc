@@ -10,17 +10,17 @@ export default function PasswordGate({ recipient, onUnlock }) {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const correctCode = (recipient?.passcode || '0110').trim().toLowerCase();
+    const correctCode = (recipient?.passcode || '2910').trim().toLowerCase();
     const userEntered = inputCode.trim().toLowerCase();
 
     if (
       userEntered === correctCode || 
-      userEntered === '0110' || 
-      userEntered === '1001' || 
-      userEntered === 'ritika' || 
-      userEntered === 'buggi' || 
+      userEntered === '2910' || 
+      userEntered === '1029' || 
+      userEntered === 'aarna' || 
+      userEntered === 'pagal bauni' || 
       userEntered === 'birthday' || 
-      userEntered === 'bestie'
+      userEntered === 'gullu bullu'
     ) {
       sfx.playChime();
       onUnlock();
