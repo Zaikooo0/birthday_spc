@@ -22,7 +22,7 @@ export const configData = {
   music: {
     title: "KUCCHU FAV SONG ❤️",
     artist: "BAUNI & BAUNA❤️",
-    audioUrl: "/music/fav_song_for_buggii.mp3",
+    audioUrl: "/music/audio.mp3",
     autoPlayPrompt: true,
   },
   // 🌟 Opening / Hero Section
