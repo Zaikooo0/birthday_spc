@@ -413,7 +413,7 @@ export const configData = {
       badgeColor: "#f59e0b",
       duration: "0:04",
       description: "Some moments are cute for no reason… and somehow you make every one of them special.",
-      poster: "/images/15.jpeg",
+      poster: "/images/01.jpeg",
       videoUrl: "/videos/01.mp4",
       memoryNote: "Is video mein tumhari cuteness ka koi competition hi nahi… bas dekho aur smile automatically aa jaaye. 🥹💗"
     }
