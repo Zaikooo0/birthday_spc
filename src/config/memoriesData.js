@@ -47,8 +47,8 @@ export const configData = {
       date: "The Day It All Started",
       tag: "The Beginning",
       tagColor: "#f43f5e",
-      summary: "Ek choti si random baat se shuru hua safar jo aaj meri zindagi ka sabse special hissa ban gaya.",
-      detail: "Mujhe aaj bhi yaad hai jab pehli baar baat hui thi Aarna. Tab bilkul nahi pata tha ki ye ladki ek din meri har baat ki sabse badi raazdaar aur best friend ban jayegi. That first moment was truly the start of something unforgettable.",
+      summary: "Ek choti si prank baat se shuru hua safar jo aaj meri zindagi ka sabse special hissa ban gaya.",
+      detail: "Mujhe aaj bhi yaad hai jab pehli baar baat hui thi Aaru se. Tab bilkul nahi pata tha ki ye ladki ek din meri har baat ki sabse badi raazdaar aur best friend ban jayegi. That first moment was truly the start of something unforgettable.",
       icon: "MessageCircle",
       image: "/images/01.jpeg",
       memoryQuote: "“Pehle laga tha thodi quiet hai, par baad me pata chala full nautanki aur dramebaaz hai!” 😂❤️"
@@ -60,8 +60,8 @@ export const configData = {
       date: "Endless Midnight Talks",
       tag: "Late Nights",
       tagColor: "#8b5cf6",
-      summary: "Jab ghanton ka pata nahi chalta tha aur duniya so rahi hoti thi, tab humari baatein shuru hoti thi.",
-      detail: "Zindagi ke dukh-dard se le kar sabse silly baaton tak, humne kitni der tak baatein ki hain bina judge hone ke darr se. Ritika ke sath baat karke saari tension gayab ho jati hai.",
+      summary: "Jab ghanton ka pata nahi chalta tha aur lgta tha ki 4 ghante bs 4 min me bit gye.",
+      detail: "Zindagi ke dukh-dard se le kar sabse silly baaton tak, humne kitni der tak baatein ki hain bina judge hone ke darr se. Aaru ke sath baat karke saari tension gayab ho jati hai.",
       icon: "Moon",
       image: "/images/02.jpeg",
       memoryQuote: "“Main bas 5 min me so rahi hoon...” (aur phir 2 ghante aur baatein) 🥱✨"
@@ -74,10 +74,10 @@ export const configData = {
       tag: "Laugh Riot",
       tagColor: "#f59e0b",
       summary: "Wo moments jab bina kisi reason ke itna hase ki pet dard karne laga aur aankhon se aansu nikal aaye.",
-      detail: "Aarna jab hasna start karti hai na, toh poora room cheerful ho jata hai. Tumhara wo bina aawaz wala hasna aur cute expressions are the best thing ever.",
+      detail: "Aaru jab smile krti to mera dil garden garden hojata. Tumhara wo bina aawaz wala hasna aur cute expressions are the best thing ever.",
       icon: "Smile",
       image: "/images/03.jpeg",
-      memoryQuote: "“Hasso mat yaar, koi dekh lega toh pagal samjhega!” 💀"
+      memoryQuote: "“Chup rho! jada bolo mt ” 💀"
     },
     {
       id: "ch-4",
@@ -87,7 +87,7 @@ export const configData = {
       tag: "Pure Bond",
       tagColor: "#ec4899",
       summary: "Jab sab kuch mushkil lag raha tha, tab tumhara ek message hi kaafi tha hosla dene ke liye.",
-      detail: "True friendship wahi hoti hai jo bure waqt me chup-chap sath khadi rahe. Thank you Aarna for always understanding me and being my pillar of strength.",
+      detail: "True friendship wahi hoti hai jo bure waqt me chup-chap sath khadi rahe. Thank you Aaru for always understanding me and being my pillar of strength.",
       icon: "HeartHandshake",
       image: "/images/05.jpeg",
       memoryQuote: "“Tension mat le, sab theek ho jayega. Main hoon na tere sath.” ❤️"
@@ -103,7 +103,7 @@ export const configData = {
       detail: "Har photo ke peeche ek alag hi kahani hai—hasi, drama, arguments ki kaun si photo better hai, aur end me saari photos best memories ban gayin.",
       icon: "Camera",
       image: "/images/07.jpeg",
-      memoryQuote: "“Ye photo bohot cute aayi hai, isko hamesha sambhaal ke rakhna!”"
+      memoryQuote: "“Ye photo bohot cute aayi hai !”"
     },
     {
       id: "ch-6",
@@ -113,23 +113,23 @@ export const configData = {
       tag: "Partner In Crime",
       tagColor: "#06b6d4",
       summary: "Ek dusre ko pareshan karna, leg-pulling karna, aur non-stop masti.",
-      detail: "Kitni bhi ladayi ho ya kitni bhi baatein, Aarna ke sath kabhi bore hona impossible hai. You are the best companion anyone could ever ask for.",
+      detail: "Kitni bhi ladayi ho ya kitni bhi baatein, Aaru ke sath kabhi bore hona impossible hai. You are the best companion anyone could ever ask for.",
       icon: "Gamepad2",
       image: "/images/09.jpeg",
-      memoryQuote: "“Tu kitna irritate karta hai mujhe, par phir bhi main hi jhelungi tujhe!” 😂"
+      memoryQuote: "“Tumko mai utha ke phek dungi jada labar labar krta h!” 😂"
     },
     {
       id: "ch-7",
       chapter: "Chapter 07",
       title: "Today & Every Tomorrow ❤️",
-      date: "1st October — Happy Birthday Aarna!",
+      date: "1st October — Happy Birthday Aaru!",
       tag: "Grand Celebration",
       tagColor: "#fbbf24",
       summary: "Ye celebration hai us pyari si ladki ka jo sabki life me brightness bharti hai.",
-      detail: "Happy Birthday my dearest Aarna! May this year give you immense happiness, career success, peace of mind, great food, and lifelong laughter. I promise to always be by your side.",
+      detail: "Happy Birthday my dearest Aaru! May this year give you immense happiness, career success, peace of mind, great food, and lifelong laughter. I promise to always be by your side.",
       icon: "Sparkles",
       image: "/images/11.jpeg",
-      memoryQuote: "“Happy Birthday Aarna! Always shine bright like the star you are!” 🥂👑"
+      memoryQuote: "“Happy Birthday Aaru! Always shine bright like the star you are!” 🥂👑"
     }
   ],
 
@@ -137,7 +137,7 @@ export const configData = {
   herQuotes: [
     {
       id: 1,
-      quote: "Tu tension mat liya kar, jo hoga dekh lenge... par pehle mujhe ye bata khana kya khayenge?",
+      quote: "Tum tension mat liya karo, jo hoga dekh lenge... par pehle mujhe ye bata khana kha liye kya?",
       context: "During overthinking & stress session",
       date: "Midnight Vibe",
       reaction: "😭❤️",
@@ -146,7 +146,7 @@ export const configData = {
     },
     {
       id: 2,
-      quote: "Tu jaisa hai na, waise hi rehna. Kabhi kisi ke liye apna nature mat badalna.",
+      quote: "Tum jaise bhi ho mujhe bohot pasnd ho akhir kaar 6th se pyaar krti hunn.",
       context: "Heart-to-heart deep conversation",
       date: "Terrace Talk",
       reaction: "🥺✨",
@@ -155,7 +155,7 @@ export const configData = {
     },
     {
       id: 3,
-      quote: "Agar tune meri beizzati nahi ki na din bhar me, toh mujhe lagta hai kuch gadbad hai!",
+      quote: "Agar tumne meri beizzati nahi ki na din bhar me, toh mujhe lagta hai kuch gadbad hai!",
       context: "Daily banter & roast session",
       date: "Everyday Talk",
       reaction: "💀😂",
@@ -164,7 +164,7 @@ export const configData = {
     },
     {
       id: 4,
-      quote: "Main hamesha tere sath hoon, chahe tu kitna bhi irritate kare mujhe!",
+      quote: "Main hamesha tumhare sath hoon, chahe tu kitna bhi irritate kare mujhe!",
       context: "When I needed someone to listen without judgment",
       date: "Special Moment",
       reaction: "🫂🤍",
@@ -173,7 +173,7 @@ export const configData = {
     },
     {
       id: 5,
-      quote: "Dekh, main thodi moody aur dramebaaz hoon, par meri intentions hamesha saaf hoti hain tere liye.",
+      quote: "Dekho, main thodi moody aur dramebaaz hoon, par meri intentions hamesha saaf hoti hain tumhare liye.",
       context: "After a silly 5-minute drama",
       date: "Random Evening",
       reaction: "🌸✨",
@@ -201,8 +201,8 @@ export const configData = {
       location: "Special Memories",
       category: "Aesthetic",
       rotation: -3,
-      image: "/images/01.jpeg",
-      fullStory: "Aarna ki sabse natural aur pyaari smile. Har baar jab ye photo dekho, ek positive energy feel hoti hai."
+      image: "/images/04.jpeg",
+      fullStory: "Aaru ki sabse natural aur pyaari smile. Har baar jab ye photo dekho, ek positive energy feel hoti hai."
     },
     {
       id: "p2",
@@ -212,8 +212,8 @@ export const configData = {
       location: "Everyday Magic",
       category: "Aesthetic",
       rotation: 3,
-      image: "/images/02.jpeg",
-      fullStory: "A picture that defines grace and simplicity. Aarna in her most peaceful and happy mood."
+      image: "/images/06.jpeg",
+      fullStory: "A picture that defines grace and simplicity. Aaru in her most peaceful and happy mood."
     },
     {
       id: "p3",
@@ -223,8 +223,8 @@ export const configData = {
       location: "City Outings",
       category: "Silly & Candid",
       rotation: -4,
-      image: "/images/03.jpeg",
-      fullStory: "The unmatched dramebaazi and fun that makes spending time with Aarna so unforgettable."
+      image: "/images/08.jpeg",
+      fullStory: "The unmatched dramebaazi and fun that makes spending time with My Cutu so unforgettable."
     },
     {
       id: "p4",
@@ -234,8 +234,8 @@ export const configData = {
       location: "Golden Memories",
       category: "Aesthetic",
       rotation: 2,
-      image: "/images/05.jpeg",
-      fullStory: "Shanti, sundar hawa, aur Aarna ke sath kabhi na khatam hone wali baatein."
+      image: "/images/10.jpeg",
+      fullStory: "Shanti, sundar hawa, aur My Cutu ke sath kabhi na khatam hone wali baatein."
     },
     {
       id: "p5",
@@ -245,8 +245,8 @@ export const configData = {
       location: "Everyday Life",
       category: "Silly & Candid",
       rotation: -2,
-      image: "/images/06.jpeg",
-      fullStory: "Bina pose kiye jo photos aati hain wahi sabse real hoti hain, aur ye uski sabse best example hai."
+      image: "/images/12.jpeg",
+      fullStory: "Bina pose kiye jo photos aati hain wahi sabse real hoti hain, aur ye uski sabse best example hai (wo alg baat h ki ye har chiz me pose krti h )."
     },
     {
       id: "p6",
@@ -256,8 +256,8 @@ export const configData = {
       location: "Special Outing",
       category: "Unforgettable",
       rotation: 4,
-      image: "/images/07.jpeg",
-      fullStory: "Aarna ki innocence aur kindness is photo me saaf jhalakti hai. A truly wonderful soul."
+      image: "/images/13.jpeg",
+      fullStory: "Aaru ki innocence aur kindness is photo me saaf jhalakti hai. A truly wonderful soul."
     },
     {
       id: "p7",
@@ -267,7 +267,7 @@ export const configData = {
       location: "Favorite Spot",
       category: "Aesthetic",
       rotation: -3,
-      image: "/images/08.jpeg",
+      image: "/images/14.jpeg",
       fullStory: "Jab bhi ye memory yaad aati hai, chehre par ek pyari si smile aa jaati hai."
     },
     {
@@ -278,7 +278,7 @@ export const configData = {
       location: "Campus & Fun",
       category: "Silly & Candid",
       rotation: 2,
-      image: "/images/09.jpeg",
+      image: "/images/15.jpeg",
       fullStory: "Aarna jab full energy me hoti hai, tab sab log bas uski baatein sunkar haste rehte hain."
     },
     {
@@ -289,7 +289,7 @@ export const configData = {
       location: "Cozy Corners",
       category: "Unforgettable",
       rotation: -2,
-      image: "/images/10.jpeg",
+      image: "/images/16.jpeg",
       fullStory: "Under the open sky, talking about dreams, goals, and promising to stay friends forever."
     },
     {
@@ -300,7 +300,7 @@ export const configData = {
       location: "Celebration Zone",
       category: "Unforgettable",
       rotation: 3,
-      image: "/images/11.jpeg",
+      image: "/images/17.jpeg",
       fullStory: "Celebrating the wonderful girl who makes life so much more fun and colorful. Happy Birthday Buggi!"
     },
     {
@@ -311,8 +311,8 @@ export const configData = {
       location: "Heartfelt Corner",
       category: "Aesthetic",
       rotation: -4,
-      image: "/images/12.jpeg",
-      fullStory: "Time will fly and years will pass, but these captured memories of Aarna will stay forever."
+      image: "/images/18.jpeg",
+      fullStory: "Time will fly and years will pass, but these captured memories of My Wifeyy will stay forever."
     },
     {
       id: "p12",
@@ -322,7 +322,7 @@ export const configData = {
       location: "Our World",
       category: "Silly & Candid",
       rotation: 3,
-      image: "/images/13.jpeg",
+      image: "/images/19.jpeg",
       fullStory: "You don't need a reason to smile when you are around the right person."
     },
     {
@@ -333,8 +333,8 @@ export const configData = {
       location: "Cherished Place",
       category: "Aesthetic",
       rotation: -2,
-      image: "/images/14.jpeg",
-      fullStory: "Aarna's presence is truly a blessing to everyone around her."
+      image: "/images/20.jpeg",
+      fullStory: "My Cutu's presence is truly a blessing to everyone around her."
     },
     {
       id: "p14",
@@ -344,7 +344,7 @@ export const configData = {
       location: "Special Times",
       category: "Silly & Candid",
       rotation: 4,
-      image: "/images/15.jpeg",
+      image: "/images/21.jpeg",
       fullStory: "One of the most adorable moments frozen in time."
     },
     {
@@ -355,7 +355,7 @@ export const configData = {
       location: "Everywhere",
       category: "Unforgettable",
       rotation: -3,
-      image: "/images/19.jpeg",
+      image: "/images/22.jpeg",
       fullStory: "Here is to infinite more years of making crazy memories and celebrating birthdays together!"
     },
     {
@@ -366,7 +366,7 @@ export const configData = {
       location: "Life's Highlights",
       category: "Aesthetic",
       rotation: 2,
-      image: "/images/21.jpeg",
+      image: "/images/23.jpeg",
       fullStory: "May your future be as bright and glowing as your smile, Buggi!"
     },
     {
@@ -377,8 +377,8 @@ export const configData = {
       location: "Happy Place",
       category: "Silly & Candid",
       rotation: -3,
-      image: "/images/22.jpeg",
-      fullStory: "Memories like this remind us how simple and beautiful friendship is."
+      image: "/images/24.jpeg",
+      fullStory: "Memories like this remind us how simple and beautiful relationship is."
     },
     {
       id: "p18",
@@ -388,8 +388,8 @@ export const configData = {
       location: "In My Heart",
       category: "Unforgettable",
       rotation: 3,
-      image: "/images/26.jpeg",
-      fullStory: "Thank you for being Aarna, thank you for being my Buggi. Happy Birthday!"
+      image: "/images/25.jpeg",
+      fullStory: "Thank you for being Aaru, thank you for being my Buggi. Happy Birthday!"
     }
   ],
 
@@ -400,9 +400,9 @@ export const configData = {
       title: "Those Eyes That Make Me Smile 👀❤️",
       tag: "Those Eyes 👀",
       badgeColor: "#ec4899",
-      duration: "0:30",
+      duration: "0:06",
       description: "Somehow, one look at those eyes is enough to make me smile.",
-      poster: "/images/04.jpeg",
+      poster: "/images/26.jpeg",
       videoUrl: "/videos/04.mp4",
       memoryNote: "Pata nahi tumhari aankhon mein aisa kya magic hai… bas dekhta hoon aur automatically smile aa jaati hai. Kuch aankhein bas dekhi nahi jaati, yaad reh jaati hain. 👀❤️"
     },
@@ -411,10 +411,10 @@ export const configData = {
       title: "Cuteness Overload: That's So Buggi 🥹💗",
       tag: "Cuteness Overload 🥹",
       badgeColor: "#f59e0b",
-      duration: "0:45",
+      duration: "0:04",
       description: "Some moments are cute for no reason… and somehow you make every one of them special.",
       poster: "/images/15.jpeg",
-      videoUrl: "/videos/20.mp4",
+      videoUrl: "/videos/01.mp4",
       memoryNote: "Is video mein tumhari cuteness ka koi competition hi nahi… bas dekho aur smile automatically aa jaaye. 🥹💗"
     }
   ],
@@ -424,10 +424,10 @@ export const configData = {
     envelopeTitle: "Open this when you're ready, Aarna…",
     sealText: "FOR BUTKI",
     date: "1st October, Midnight",
-    salutation: "Dearest Aarna (My Buggi ❤️),",
+    salutation: "Dearest Aaru (My Buggi ❤️),",
     paragraphs: [
       "I know main aksar tumhe irritate karta hoon aur pretend karta hoon ki mujhe farak nahi padta, but the truth is—having you as my best friend is one of the biggest blessings of my life.",
-      "Tumhare andar ek bohot rare aur beautiful quality hai, Aarna: tum bina kisi show-off ke sabke dil me apni jagah bana leti ho. In a world full of fake vibes, your genuineness and warmth are like a breath of fresh air.",
+      "Tumhare andar ek bohot rare aur beautiful quality hai, Aaru: tum bina kisi show-off ke sabke dil me apni jagah bana leti ho. In a world full of fake vibes, your genuineness and warmth are like a breath of fresh air.",
       "Thank you for being my go-to person for everything—for the late night conversations, the silly arguments, for listening to my random thoughts, and for believing in me even when I doubt myself.",
       "On your birthday, I wish you infinite happiness, peace of mind, unshakeable confidence, and success in everything you pursue. May you always keep that cute laugh and positive spark alive, no matter where life takes you.",
       "Chahe hum kitne bhi busy ho jayein ya kitne bhi saal beet jayein, ye RelationShip hamesha meri sabse safe space rahegi. You will always have a friend who stands by you through everything."
@@ -444,7 +444,7 @@ export const configData = {
       lines: [
         "kuch rishte lafzon ke mohtaaj nahi hote,",
         "wo ehsaas hain jo khamoshi me bhi muskurate hain.",
-        "teri dosti meri zindagi ka wo hissa hai Aarna,",
+        "teri dosti meri zindagi ka wo hissa hai Aaru,",
         "jise hum har dua me shamil paate hain."
       ],
       author: "Dedicated to Aarna",

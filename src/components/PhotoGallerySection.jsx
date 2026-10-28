@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+  import React, { useState } from 'react';
 import { Camera, Sparkles, MapPin, Calendar, X, Heart, Eye } from 'lucide-react';
 import { sfx } from '../utils/audioUtils';
 
